@@ -133,7 +133,7 @@ The report is saved to `results/report_YYYYMMDD_HHMMSS.md`. The terminal prints 
 |---|---|
 | `google-adk` | Agent Development Kit — orchestrates agents and tool use |
 | `litellm` | Unified interface to call Gemma models via Google AI |
-| `anthropic` | Anthropic SDK (used by ADK internally) |
+| `gemini` | Gemini APIs used internally |
 | `python-dotenv` | Loads `GOOGLE_API_KEY` from `.env` at runtime |
 
 Install all at once:
